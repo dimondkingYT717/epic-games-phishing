@@ -31,4 +31,4 @@ Copy the link and send it to someone idk 🤷‍♂️.
 Then when the user loggin, you are going to recive the webhook embed with all infos [Exemple here]()
 There is 2 files with the infos that are going to be created in case your webhook get deleted or if you server got deleted, again, idk 🤷‍♂️.
 
-https://user-images.githubusercontent.com/
+https://user-images.githubusercontent.com/screen/embed.png
