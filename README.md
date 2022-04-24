@@ -9,12 +9,12 @@ Fortnite Phishing Page working with Discord webhook or save it on a .txt file.
 
 # 📜 - Features:
 
-- [x] Steal Fortnite Account Email
-- [x] Steal Fortnite Account Password
-- [x] Send All Infos Through Discord Webhook
-- [x] Save Infos On A .txt file
-- [x] Your Webhook Is protected (thx Rdimo)
-- [x] Steal User's Ip
-- [x] Nice Website
+- Steal Fortnite Account Email
+- Steal Fortnite Account Password
+- Send All Infos Through Discord Webhook
+- Save Infos On A .txt file
+- Your Webhook Is protected (thx Rdimo)
+- Steal User's Ip
+- Nice Website
 
 # ❓ - How to Use ?
