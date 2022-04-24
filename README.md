@@ -20,5 +20,6 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 - Copy of the official Epic Game Login Page
 
 # ❓ - How to Setup ?
-1
-2
+1. take
+2. take
+4. take
