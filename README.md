@@ -19,4 +19,6 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 - Steal User's Ip
 - Copy of the official Epic Game Login Page
 
-# ❓ - How to Use ?
+# ❓ - How to Setup ?
+1
+2
