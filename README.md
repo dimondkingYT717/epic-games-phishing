@@ -1,4 +1,4 @@
-##### [🌍 Discord Server](https://discord.gg/rNbcUvV7) [💡 Features]() 
+##### [🌍 Discord Server](https://discord.gg/rNbcUvV7) [💡 Features](https://github.com/Ib69/fortnite-phishing/blob/main/README.md#---features) [❓ How to Use ?](https://github.com/Ib69/fortnite-phishing/blob/main/README.md#---features) 
 
 # 🎣 - Fortnite Phishing Page:
 Fortnite Phishing Page working with Discord webhook or save it on a .txt file.
