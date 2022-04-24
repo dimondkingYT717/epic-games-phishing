@@ -8,6 +8,7 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 - [x] Reselling is forbidden
 - [x] I am **NOT** responsible of anything you do with our software
 - [ ] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
+- [ ] This code is only a basic source code, so if you want to change, modify, update it, you can
 
 # 📜 - Features:
 
