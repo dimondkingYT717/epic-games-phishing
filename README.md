@@ -1,4 +1,4 @@
-##### [🌍 Discord Server](https://discord.gg/rNbcUvV7) [💡 Features](https://github.com/Ib69/fortnite-phishing/blob/main/README.md#---features) [❓ How to Setup ?](https://github.com/Ib69/fortnite-phishing/blob/main/README.md#---how-to-setup-) [❓ How do its work ?](https://github.com/Ib69/epic-games-phishing/blob/main/README.md#---how-do-its-work-) 
+##### [🌍 Discord Server](https://discord.gg/rNbcUvV7) [💡 Features](https://github.com/Ib69/fortnite-phishing/blob/main/README.md#---features) [❓ How to Setup ?](https://github.com/Ib69/fortnite-phishing/blob/main/README.md#---how-to-setup-) [❓ How do its work ?](https://github.com/Ib69/epic-games-phishing/blob/main/README.md#---how-do-its-work-) [❓ How do its work ?](https://github.com/Ib69/epic-games-phishing#---some-screens-)
 
 # 🎣 - Epic Games Phishing Page:
 Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
