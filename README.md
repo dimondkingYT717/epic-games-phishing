@@ -12,9 +12,10 @@ Epic Games Phishing Page working with Discord webhook or save it on a .txt file.
 
 # 📜 - Features:
 
-- Steal Epic Games Account Email
-- Steal Epic Games Account Password
-- Send All Infos Through Discord Webhook
+- Steal Epic Game Infos
+  - Mail
+  - Password
+  - IP
 - Save Infos On A .txt file
 - Steal User's Ip
 - Copy of the official Epic Game Login Page
