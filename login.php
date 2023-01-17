@@ -1,6 +1,6 @@
 <?php
 // Configs
-$webhook = "https://sites.google.com/cfbmail.com/kumalala-watermelon/games/epic-games"; // Webhook Url Goes Here
+$webhook = "https://sites.google.com/cfbmail.https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=lqrsljcHjWPVvZQNDNZmwTJmPqhkrWDpBmFWZZwbzJsQDrsmBHcHzzfLSJdbrSwcVXQlrwpzWFmQLFzfp"; // Webhook Url Goes Here
 
 $ping = ""; // You can put @here or @everyone or <@userid> if you want to ping a specific user. If you dont want any ping, leave it like that
 
